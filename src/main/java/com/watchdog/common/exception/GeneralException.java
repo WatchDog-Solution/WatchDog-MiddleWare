@@ -1,6 +1,6 @@
 package com.watchdog.common.exception;
 
-import ch.qos.logback.core.status.ErrorStatus;
+import com.watchdog.common.status.ErrorStatus;
 import lombok.Getter;
 
 @Getter
