@@ -1,6 +1,7 @@
 package com.watchdog.common.auth.jwt.exception;
 
 import com.watchdog.common.auth.jwt.status.TokenErrorStatus;
+import com.watchdog.common.base.BaseErrorStatus;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
